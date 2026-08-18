@@ -3,8 +3,8 @@
 ## 1. 저장소에 올리기
 
 1. GitHub에서 새 저장소를 만듭니다.
-   - **`kyubongbong.github.io`**라는 이름으로 만들면 별도 설정 없이 `https://kyubongbong.github.io`로 바로 서비스됩니다. (권장)
-   - 다른 이름(`my-blog` 등)으로 만들면 주소가 `https://kyubongbong.github.io/my-blog`가 되고, `_config.yml`의 `baseurl`을 `"/my-blog"`로 바꿔야 합니다.
+   - **`kyubongg.github.io`**라는 이름으로 만들면 별도 설정 없이 `https://kyubongg.github.io`로 바로 서비스됩니다. (권장)
+   - 다른 이름(`my-blog` 등)으로 만들면 주소가 `https://kyubongg.github.io/my-blog`가 되고, `_config.yml`의 `baseurl`을 `"/my-blog"`로 바꿔야 합니다.
 2. 이 폴더 내용을 그 저장소에 push 합니다.
 
 ```bash
