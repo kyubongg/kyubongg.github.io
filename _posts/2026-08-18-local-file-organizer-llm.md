@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "데스크탑 파일 정리를 LLM에게 맡겨보기 (빌드로그 #1)"
-date: 2026-08-18
-categories: [project, llm]
+date: 2026-08-18 09:00:00 +0900
+categories: [Project, LLM]
 tags: [python, ollama, qwen, local-llm, automation]
 ---
 
