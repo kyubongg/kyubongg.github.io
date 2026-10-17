@@ -1,6 +1,6 @@
 ---
 title: "툴을 MCP 서버로 뺐더니, 검증 방법부터 틀렸다 (빌드로그 #3)"
-date: 2026-10-17 21:00:00 +0900
+date: 2026-10-17 20:30:00 +0900
 categories: [Project, LLM]
 tags: [python, ollama, qwen, local-llm, agent, mcp, refactoring, testing]
 ---
