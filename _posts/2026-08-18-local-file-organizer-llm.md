@@ -2,7 +2,8 @@
 title: "데스크탑 파일 정리를 LLM에게 맡겨보기 (빌드로그 #1)"
 date: 2026-08-18 09:00:00 +0900
 categories: [Project, LLM]
-tags: [python, ollama, qwen, local-llm, automation]
+tags: [python, ollama, qwen, local-llm, automation, filebutler]
+summary: "로컬 LLM에게 파일 분류를 맡기고, 경로와 실행은 코드가 쥐는 구조로 시작했다."
 ---
 
 ## 왜 만들게 됐나

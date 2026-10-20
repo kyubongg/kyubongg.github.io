@@ -2,7 +2,8 @@
 title: "툴을 MCP 서버로 뺐더니, 검증 방법부터 틀렸다 (빌드로그 #3)"
 date: 2026-10-17 20:30:00 +0900
 categories: [Project, LLM]
-tags: [python, ollama, qwen, local-llm, agent, mcp, refactoring, testing]
+tags: [python, ollama, qwen, local-llm, agent, mcp, refactoring, testing, filebutler]
+summary: "조회 툴을 MCP 서버로 분리했다. 모델 출력이 실행마다 흔들려서, 검증을 출력 비교에서 입력 비교로 바꿨다."
 ---
 
 > [빌드로그 #2](/posts/filebutler-agent-tool-calling/) 마지막에 "다음은 이 툴들을 MCP

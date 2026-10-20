@@ -2,7 +2,8 @@
 title: "에이전트로 바꿨더니 정확도는 그대로, 안전 구멍만 드러났다 (빌드로그 #2)"
 date: 2026-10-15 21:00:00 +0900
 categories: [Project, LLM]
-tags: [python, ollama, qwen, local-llm, agent, tool-calling, evaluation]
+tags: [python, ollama, qwen, local-llm, agent, tool-calling, evaluation, filebutler]
+summary: "워크플로를 에이전트로 바꿨다. 정확도는 그대로였고, 시스템 파일이 확인 없이 옮겨지는 구멍이 드러났다."
 ---
 
 > [빌드로그 #1](/posts/local-file-organizer-llm/)에서 만든 로컬 파일 정리기를 툴 호출
